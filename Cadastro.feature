@@ -1,3 +1,6 @@
+### Título:  
+**"Como novo usuário, quero me cadastrar no sistema com meus dados pessoais para poder realizar compras online"**  
+
 Scenario: Cadastro completo com dados válidos  
   Given acesso à página de cadastro inicial  
   When preencho "Name" com "Gabriel"  
